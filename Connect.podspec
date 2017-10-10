@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
-  s.name         = "ConnectSDK"
+  s.name         = "Connect"
   s.version      = "1.4.2"
-  s.summary      = "Connect Interactive SDK."
+  s.summary      = "Connected Interactive SDK."
 
   s.description  = <<-DESC
-Connect Interactive SDK for iOS.
+Connected Interactive SDK for iOS.
                        DESC
   s.homepage     = "http://connectedinteractive.com"
   s.license      = { :type => "MIT", :file => 'LICENSE' }
